@@ -8,3 +8,4 @@ ec2_instance_type:
 ec2_keypair: 
 ec2_security_group: default
 ec2_instance_count: 2
+ec2_tag:
